@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula Actions - Victor Ribeiro
+          Aula Actions - Victor Ribeiro new Workflow
         </p>
         <a
           className="App-link"
